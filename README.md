@@ -1,6 +1,6 @@
 # Technical-Blog
 Advanced Java Project
-# ProgHub: Empowering Programmers through Knowledge Sharing
+# TechBlog: Empowering Programmers through Knowledge Sharing
 
 ## Project Overview
 
